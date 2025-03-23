@@ -4,3 +4,6 @@
 [submodule "receiver"]
 	path = receiver
 	url = git@github.com:jack-app/zoltraak-receiver.git
+[submodule "detecter"]
+	path = detecter
+	url = git@github.com:jack-app/zoltraak-detecter.git
