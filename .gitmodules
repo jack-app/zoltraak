@@ -1,0 +1,6 @@
+[submodule "visualizer"]
+	path = visualizer
+	url = git@github.com:jack-app/zoltraak-visualizer.git
+[submodule "receiver"]
+	path = receiver
+	url = git@github.com:jack-app/zoltraak-receiver.git
